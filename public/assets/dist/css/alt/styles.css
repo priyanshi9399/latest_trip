@@ -1,0 +1,43 @@
+.navbar-dark{
+    background-color: #1D4454 !important
+}
+
+[class*=sidebar-dark-] {
+    background-color: #1D4454 !important;
+    color:white;    
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff !important;
+    background-color: #335866 !important;
+    font-weight: bold;
+}
+
+.nav-sidebar .nav-treeview {
+    margin-left:35px;
+}
+
+.nav-sidebar .nav-item>.nav-link {
+    color:#fff;
+}
+
+
+.contact_us {
+    background-image: linear-gradient(rgba(27, 26, 26, 0.688), rgba(34, 28, 28, 0.634)), url('../../../../../public/img/contactPage.webp');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+}
+
+.pagecontainerheader{
+    background-color: #235267;
+    height: 200px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:22px
+
+}

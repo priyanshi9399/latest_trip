@@ -1,0 +1,43 @@
+.lottary_div_home_conta{
+    padding:10px;
+    margin-top:10px;
+    margin-bottom: 10px;;
+}
+
+.lottary_div_home{
+    width:100%;
+    justify-content: space-around;
+    display: flex;
+    height:103px;
+    background-image: url(../../../../public/img/front_image_bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding:15px;
+}
+
+.lottery_div_item1{
+    text-align: left;
+    font-weight: bold;
+    cursor: pointer;
+    color:#f4f5f8;
+   
+    font-size: 15px;
+}
+
+.lottery_div_item2{
+    text-align: right;
+    font-weight: bold;
+    cursor: pointer; 
+}
+
+.lottery_price_win_div{
+    background-color:#f4f5f8;
+    padding:18px;
+    font-weight: bold;
+}
+
+.gamelist_home a{
+    color:black;
+}
+
+

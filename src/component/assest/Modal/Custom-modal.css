@@ -1,0 +1,29 @@
+.custom-modal {
+    top:49%;
+    z-index: 99999;
+
+}
+
+.custom-modal .modal-content {
+  border-radius: 0;
+  border: none;
+}
+
+.b_betamount{
+    margin-left:3px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-bottom: 5px;
+   
+}
+
+.betid_title{
+    font-weight: bold;
+    font-size: 16px;
+    color:#0E222A;
+}
+
+
+.modal-content {
+    background-color: rgba(255, 255, 255, 0.885); /* Semi-transparent background */
+}
